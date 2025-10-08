@@ -1,20 +1,36 @@
 # AI Study Buddy 🤖
 
-A smart study assistant that helps students understand complex concepts using AI.
+<div align="center">
+  
+*A smart AI-powered study assistant that helps students understand complex concepts using Google Gemini AI*
 
-## Features
-- 📖 Explain any concept in simple terms
-- 📝 Summarize long texts into study notes
-- ❓ Generate practice quizzes
-- 🎴 Create study flashcards
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-## Setup
-1. Get free Gemini API key from https://aistudio.google.com/
-2. Add API key to `.env` file:
-3. Install dependencies: `pip install -r requirements.txt`
-4. Run: `streamlit run app.py`
+**Live Demo: [Your App URL Here]**
 
-## Tech Stack
-- Python + Streamlit
-- Google Gemini AI
-- Deployed on Streamlit Cloud
+</div>
+
+## ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| **📖 Explain Concepts** | Get simple explanations for any academic topic |
+| **📝 Summarize Notes** | Condense long texts into concise study notes |
+| **❓ Generate Quizzes** | Create practice quizzes with answers |
+| **🎴 Create Flashcards** | Make digital flashcards for revision |
+
+## 🚀 Quick Start
+
+### Local Development
+```bash
+# Clone repository
+git clone https://github.com/anjali6002/ai-study-buddy.git
+cd ai-study-buddy
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run application
+streamlit run app.py
