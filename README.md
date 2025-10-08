@@ -31,6 +31,10 @@ cd ai-study-buddy
 
 # Install dependencies
 pip install -r requirements.txt
+# Run application
+streamlit run app.py
+</div> ```
+
 Live Demo
 Visit the deployed application and:
 
@@ -74,6 +78,4 @@ Built with ❤️ for Edunet Foundation AI & Cloud Internship
 
 Making learning accessible with AI
 
-</div> ```
 
-streamlit run app.py
