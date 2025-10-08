@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Live Demo: [Your App URL Here]**
+**Live Demo: [https://ai-study-buddy-2nyjtyhrdyafs26ucycyjn.streamlit.app/]**
 
 </div>
 
