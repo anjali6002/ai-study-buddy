@@ -31,6 +31,49 @@ cd ai-study-buddy
 
 # Install dependencies
 pip install -r requirements.txt
+Live Demo
+Visit the deployed application and:
 
-# Run application
+Enter your Gemini API key (get free from Google AI Studio)
+
+Choose any study feature
+
+Enter your topic/text
+
+Get AI-powered study help!
+
+🛠️ Tech Stack
+Frontend: Streamlit
+
+AI API: Google Gemini
+
+Backend: Python
+
+Deployment: Streamlit Cloud
+
+🎓 For Edunet Foundation
+This project demonstrates:
+
+AI integration for educational technology
+
+Cloud deployment with Streamlit
+
+Real-world problem solving for students
+
+Full-stack application development
+
+📄 Project Structure
+text
+ai-study-buddy/
+├── app.py              # Main application
+├── requirements.txt    # Dependencies
+├── .gitignore         # Git rules
+└── README.md          # Documentation
+<div align="center">
+Built with ❤️ for Edunet Foundation AI & Cloud Internship
+
+Making learning accessible with AI
+
+</div> ```
+
 streamlit run app.py
